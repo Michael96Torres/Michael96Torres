@@ -2,7 +2,7 @@
 
 ### My name is Michael Torres.  I am currently studying computer science at the University of Nevada, Las Vegas.  After obtaining laboratory and research experience while working towards a degree in Biochemistry, I decided to switch majors and pursue my interests in data analytics.  I aim to gain more experience in the field of analytics before hopefully making a transition into a data scientist role.  
 
-###📫 How to reach me: MichaelTorresWorkEmail@gmail.com
+📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
 <!--
 **Michael96Torres/Michael96Torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
