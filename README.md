@@ -9,7 +9,7 @@
   - [Multi-Layer Perceptron Regressor](https://github.com/Michael96Torres/Machine-Learning/tree/main/MultiLayerPerceptron(MLP)_Regressor)
   - [K Neighbors Classifier](https://github.com/Michael96Torres/Machine-Learning/tree/main/K%20Neighbors%20Classifier)
   - [Gaussian and Logistic Regression](https://github.com/Michael96Torres/Machine-Learning/tree/main/Gaussian%20and%20Logistic%20Regression)
-  - [Linear Regression](https://github.com/Michael96Torres/Machine-Learning/tree/main/MultiLayerPerceptron(MLP)_Regressor)
+  - [Linear Regression and Ordinary Least Squares](https://github.com/Michael96Torres/Machine-Learning/tree/main/MultiLayerPerceptron(MLP)_Regressor)
 
 
 
