@@ -5,7 +5,7 @@
 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
 
-- ## Bioinformatics/Biometrics Undergraduate Research
+- ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
 
   - [BLAST_Database_Queries](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BLAST_Database_Queries.sh)
   - [Viral Sequence Identification](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BLAST_Viral_Sequence_Identification.sh)
@@ -17,7 +17,7 @@
 
 
 
-- ## Microscale Organic Chemistry Undergraduate Research
+- ## 🥼 Microscale Organic Chemistry Undergraduate Research 🧪
 
   - [Acetyl Ferrocene Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Acetyl%20Ferrocene%20Lab%20Report.docx)
   - [Grignard Reaction Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Grignard%20Reaction.docx)
@@ -31,4 +31,5 @@
 
 <!--
 **Michael96Torres/Michael96Torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪🧬🦠💉🩺🔬🥽 🥼 
 -->
