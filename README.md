@@ -5,7 +5,7 @@
 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
 
-- ## Bioinformatics/Biometry Undergraduate Research
+- ## Bioinformatics/Biometrics Undergraduate Research
 
   - [BLAST_Database_Queries](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BLAST_Database_Queries.sh)
   - [Viral Sequence Identification](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BLAST_Viral_Sequence_Identification.sh)
