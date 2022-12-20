@@ -6,6 +6,12 @@
 
 - ##  Machine Learning
 
+  - [Multi-Layer Perceptron Regressor](https://github.com/Michael96Torres/Machine-Learning/tree/main/MultiLayerPerceptron(MLP)_Regressor)
+  - [K Neighbors Classifier](https://github.com/Michael96Torres/Machine-Learning/tree/main/MultiLayerPerceptron(MLP)_Regressor)
+  - [Multi-Layer Perceptron Regressor](https://github.com/Michael96Torres/Machine-Learning/tree/main/MultiLayerPerceptron(MLP)_Regressor)
+  - [Multi-Layer Perceptron Regressor](https://github.com/Michael96Torres/Machine-Learning/tree/main/MultiLayerPerceptron(MLP)_Regressor)
+
+
 
 - ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
 
