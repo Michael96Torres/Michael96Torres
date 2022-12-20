@@ -4,6 +4,8 @@
 
 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
+- ##  Machine Learning
+
 
 - ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
 
