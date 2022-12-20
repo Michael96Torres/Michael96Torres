@@ -28,7 +28,7 @@
   - [Williamson Ether Synthesis Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Williamson%20Ether%20Synthesis.docx)
   
 
-
+📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
 
 <!--
