@@ -4,7 +4,7 @@
 
 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
-- ## Microscale Organic Chemistry Undergrate Research
+- ## Microscale Organic Chemistry Undergraduate Research
 
   - [Acetyl Ferrocene Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Acetyl%20Ferrocene%20Lab%20Report.docx)
 
