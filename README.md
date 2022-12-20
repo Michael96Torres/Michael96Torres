@@ -7,8 +7,13 @@
 
 - ## Bioinformatics/Biometry Undergraduate Research
 
-  - [Acetyl Ferrocene Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Acetyl%20Ferrocene%20Lab%20Report.docx)
-  - [Acetyl Ferrocene Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Acetyl%20Ferrocene%20Lab%20Report.docx)
+  - [BLAST_Database_Queries](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BLAST_Database_Queries.sh)
+  - [Viral Sequence Identification](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BLAST_Viral_Sequence_Identification.sh)
+  - [BWA Short Read Aligner](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BWA_short_read_aligner.sh)
+  - [FASTQ Quality Control](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/Fastq_Quality_Control.sh)
+  - [Fetch Bacterial Variants with Filtering](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/Fetch_Bacterial_Variant_with_Filtering.sh)
+  - [RNA Sequence Classification](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/RNA-Seq_Classification.sh)
+  - [Visualizing Genomic Variation](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/Visualizing_large_scale_genomic_variation.sh)
 
 
 
