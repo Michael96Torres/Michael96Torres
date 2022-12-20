@@ -7,14 +7,15 @@
 
 - ## Bioinformatics/Biometry Undergraduate Research
 
+  - [Acetyl Ferrocene Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Acetyl%20Ferrocene%20Lab%20Report.docx)
+  - [Acetyl Ferrocene Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Acetyl%20Ferrocene%20Lab%20Report.docx)
+
 
 
 - ## Microscale Organic Chemistry Undergraduate Research
 
   - [Acetyl Ferrocene Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Acetyl%20Ferrocene%20Lab%20Report.docx)
-
   - [Grignard Reaction Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Grignard%20Reaction.docx)
-  
   - [Sodium Borohydride Reduction Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Sodium%20Borohydride%20Reduction%20Lab%20Report.docx)
   - [TLC & Column Chromatography Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/TLC%20%26%20Column%20Chromatography%20Report.docx)
   - [Williamson Ether Synthesis Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Williamson%20Ether%20Synthesis.docx)
