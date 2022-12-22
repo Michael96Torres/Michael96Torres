@@ -4,14 +4,14 @@
 
 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
-- ##  🐍 Python Projects ⌨️ 
+- ##  🐍 Python Projects 💻
 
 - ## 🎨 Data Visualization 📈
 
 - ##  💾 Database Management (SQL/MySQL) 🗄️
 
 
-- ##  💻 Machine Learning 🤖
+- ##  🤖 Machine Learning 👾
 
   - [Linear Regression and Ordinary Least Squares](https://github.com/Michael96Torres/Machine-Learning/tree/main/Linear%20Regression%20and%20Ordinary%20Least%20Squares)
   - [Gaussian and Logistic Regression](https://github.com/Michael96Torres/Machine-Learning/tree/main/Gaussian%20and%20Logistic%20Regression)
