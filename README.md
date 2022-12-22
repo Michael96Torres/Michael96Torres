@@ -4,11 +4,11 @@
 
 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
-- ##  💻 Python Projects
+- ##  💻 Python Projects 🐍
 
-- ## 💻 Data Visualization
+- ## 🎨 Data Visualization 📈
 
-- ##  💻 Database Management (SQL/MySQL)
+- ##  💻 Database Management (SQL/MySQL) 💾
 
 
 - ##  💻 Machine Learning 🤖
