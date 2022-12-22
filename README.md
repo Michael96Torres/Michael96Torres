@@ -4,12 +4,20 @@
 
 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
+- ##  💻 Python Projects
+
+- ## 💻 Data Visualization
+
+- ##  💻 Database Management (SQL/MySQL)
+
+
 - ##  💻 Machine Learning 🤖
 
   - [Linear Regression and Ordinary Least Squares](https://github.com/Michael96Torres/Machine-Learning/tree/main/Linear%20Regression%20and%20Ordinary%20Least%20Squares)
   - [Gaussian and Logistic Regression](https://github.com/Michael96Torres/Machine-Learning/tree/main/Gaussian%20and%20Logistic%20Regression)
   - [Multi-Layer Perceptron Regressor](https://github.com/Michael96Torres/Machine-Learning/tree/main/MultiLayerPerceptron(MLP)_Regressor)
   - [K Neighbors Classifier](https://github.com/Michael96Torres/Machine-Learning/tree/main/K%20Neighbors%20Classifier)
+
 
 
 - ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
