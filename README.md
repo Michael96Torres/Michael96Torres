@@ -6,7 +6,7 @@
 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
 
-| <a href="https://github.com/Michael96Torres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael96Torres&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Michael Torres Github Stats" /></a> | <a href="https://github.com/Michael96Torres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael96Torres&layout=compact&theme=buefy&hide_border=true" /></a> |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael96Torres&layout=compact)](https://github.com/Michael96Torres/github-readme-stats)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -56,6 +56,8 @@
 
 
 <!--
+
+| <a href="https://github.com/Michael96Torres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael96Torres&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Michael Torres Github Stats" /></a> | <a href="https://github.com/Michael96Torres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael96Torres&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ![Michael Torres GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael96Torres&show_icons=true&theme=transparent)
 
