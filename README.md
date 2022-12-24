@@ -4,6 +4,8 @@
 
 ![Michael Torres GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael96Torres&show_icons=true&theme=transparent)
 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
 - ##  🐍 Python Projects 💻
