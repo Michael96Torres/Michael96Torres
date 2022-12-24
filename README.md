@@ -3,6 +3,9 @@
 ### I will soon be graduating from the University of Nevada, Las Vegas with a degree in Computer Science and a double minor in Biology and Mathematics.  After obtaining laboratory and research experience while pursuing a degree in Biochemistry, I decided to focus my interests towards data analytics.  I aim to gain more experience in the field of analytics before hopefully making a transition into a role as a data scientist.  Over the years I have constructed a collection of projects that encompass my experience and knowledge within the vast field of analytics and data science.  Here are some pieces of my work and scientific research that I hope highlight some of my qualities as a Data Analyst 🙂
 
 
+📫 How to reach me: MichaelTorresWorkEmail@gmail.com
+
+
 | <a href="https://github.com/Michael96Torres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael96Torres&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Michael Torres Github Stats" /></a> | <a href="https://github.com/Michael96Torres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael96Torres&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
@@ -11,7 +14,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 
-📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
 - ##  🐍 Python Projects 💻
 
