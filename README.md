@@ -32,7 +32,7 @@
   - [K Neighbors Classifier](https://github.com/Michael96Torres/Machine-Learning/tree/main/K%20Neighbors%20Classifier)
 
 
-- ## 🖥️ Other Programming Examples (R/C++) 📚
+- ## 🖥️ Other Programming Examples (R/C++) ⌨️
 
 - ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
 
