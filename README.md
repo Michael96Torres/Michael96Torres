@@ -21,6 +21,8 @@
 
 - ##  💾 Database Management (SQL/MySQL) 🗄️
 
+  -[Movie Database] (https://github.com/Michael96Torres/Database-Projects/tree/main/Movie%20Database)
+
 
 - ##  🤖 Machine Learning 👾
 
