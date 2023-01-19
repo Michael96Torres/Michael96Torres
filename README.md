@@ -22,6 +22,7 @@
 - ##  💾 Database Management (SQL/MySQL) 🗄️
 
   - [Movie Database](https://github.com/Michael96Torres/Database-Projects/tree/main/Movie%20Database)
+  - [Covid Database Exploration] (https://github.com/Michael96Torres/Database-Projects/tree/main/Covid%20Database%20Project)
 
 
 - ##  🤖 Machine Learning 👾
