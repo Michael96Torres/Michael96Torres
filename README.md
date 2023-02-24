@@ -18,7 +18,7 @@
 - ##  🐍 Python Projects 💻
 
 - ## 🎨 Data Visualization (Tableau/Excel Dashboards) 📈
-  - [Sales Dynamic Dashboard] (https://github.com/Michael96Torres/Data-Visualizations/blob/main/Dynamic_Sales_Dashboard.xlsx)
+  - [Sales Dynamic Dashboard](https://github.com/Michael96Torres/Data-Visualizations/blob/main/Dynamic_Sales_Dashboard.xlsx)
 
 - ##  💾 Database Management (SQL/MySQL) 🗄️
 
