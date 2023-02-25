@@ -19,7 +19,7 @@
 
 - ## 🎨 Data Visualization (Tableau/Excel Dashboards) 📈
   - [Sales Dynamic Dashboard](https://github.com/Michael96Torres/Data-Visualizations/blob/main/Dynamic_Sales_Dashboard.xlsx)
-  - - [Interactive Adidas Sales Dashboard](https://github.com/Michael96Torres/Data-Visualizations/blob/main/Interactive_Dashboard_Adidas_Sales.xlsx)
+  - [Interactive Adidas Sales Dashboard](https://github.com/Michael96Torres/Data-Visualizations/blob/main/Interactive_Dashboard_Adidas_Sales.xlsx)
 
 - ##  💾 Database Management (SQL/MySQL) 🗄️
 
