@@ -44,7 +44,7 @@
     - [Adress Book Sort and Search](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Sorted_AddressBook_Using_Constructors.cpp)
     - [Linked Lists](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Linked_Lists.cpp)
   - Assembly Language (x86)
-    - [Statistical Analalysis Using Assembly Language](https://github.com/Michael96Torres/OtherProjects/blob/main/Assembly%20Language/Assembly_Statistical_Calculations.asm)
+    - [Statistical Calculations Using Assembly Language](https://github.com/Michael96Torres/OtherProjects/blob/main/Assembly%20Language/Assembly_Statistical_Calculations.asm)
     - [Caeser Cypher](https://github.com/Michael96Torres/OtherProjects/blob/main/Assembly%20Language/Caesar_Cypher_Assembly.asm)
     - [Integer to ASCII](https://github.com/Michael96Torres/OtherProjects/blob/main/Assembly%20Language/Assembly_Integer_To_ASCII.asm)
     - [Count Sort and Stats](https://github.com/Michael96Torres/OtherProjects/blob/main/Assembly%20Language/Assembly_Count_Sort_Statistics.asm)
