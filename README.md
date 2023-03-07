@@ -42,7 +42,7 @@
   - [Operator Overloading](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Operator_Overloading.cpp)
   - [Inverntory Retrieval and Counts](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Inventory_Identification_Resuts.cpp)
   - [Adress Book Sort and Search](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Sorted_AddressBook_Using_Constructors.cpp)
-  
+  - [Linked Lists](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Linked_Lists.cpp)
   
 - ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
 
