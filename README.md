@@ -36,7 +36,11 @@
 
 
 - ## 🖥️ Other Programming Examples (R/C++) ⌨️
-
+  
+  - [Fast-Food Order Price Calculator](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/FastFood_Order_Price_Calculation.cpp)
+  - 
+  
+  
 - ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
 
   - [BLAST_Database_Queries](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BLAST_Database_Queries.sh)
