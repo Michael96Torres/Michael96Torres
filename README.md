@@ -40,9 +40,10 @@
   - [Fast-Food Order Price Calculator](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/FastFood_Order_Price_Calculation.cpp)
   - [Binary to Decimal Convertor](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Binary_To_Decimal_Conv.cpp)
   - [Operator Overloading](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Operator_Overloading.cpp)
-  - [Inverntory Retrieval and Counts](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Inventory_Identification_Resuts.cpp)
+  - [Inverntory File Retrieval and Counts](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Inventory_Identification_Resuts.cpp)
   - [Adress Book Sort and Search](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Sorted_AddressBook_Using_Constructors.cpp)
   - [Linked Lists](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Linked_Lists.cpp)
+  - [Push and Pop Stack](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Stack_Input_Output.cpp)
   
 - ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
 
