@@ -48,7 +48,8 @@
     - [Caeser Cypher](https://github.com/Michael96Torres/OtherProjects/blob/main/Assembly%20Language/Caesar_Cypher_Assembly.asm)
     - [Integer to ASCII](https://github.com/Michael96Torres/OtherProjects/blob/main/Assembly%20Language/Assembly_Integer_To_ASCII.asm)
     - [Count Sort and Stats](https://github.com/Michael96Torres/OtherProjects/blob/main/Assembly%20Language/Assembly_Count_Sort_Statistics.asm)
-
+  - Java
+    -  [Espresso Virtual Machine](https://github.com/Michael96Torres/OtherProjects/tree/main/Java)
 
 - ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
 
