@@ -38,6 +38,8 @@
 - ## 🖥️ Other Programming Examples (R/C++) ⌨️
   - R (Statistical Analysis)
     - [Exam Scores Linear Regression](https://github.com/Michael96Torres/R/tree/main/Exam%20Scores%20Regression)
+    - [Oxygen Demand vs Solid Reduction](https://github.com/Michael96Torres/R/tree/main/OxygenDemand_vs_SolidReduction)
+    - [Arm Strength vs Dynamic Lift](https://github.com/Michael96Torres/R/tree/main/ArmStrength_vs_DynamicLift)
   - C++
     - [Fast-Food Order Price Calculator](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/FastFood_Order_Price_Calculation.cpp)
     - [Binary to Decimal Convertor](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Binary_To_Decimal_Conv.cpp)
