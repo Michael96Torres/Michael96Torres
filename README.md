@@ -36,6 +36,8 @@
 
 
 - ## 🖥️ Other Programming Examples (R/C++) ⌨️
+  - R (Statistical Analysis)
+    - [Exam Scores Linear Regression]
   - C++
     - [Fast-Food Order Price Calculator](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/FastFood_Order_Price_Calculation.cpp)
     - [Binary to Decimal Convertor](https://github.com/Michael96Torres/OtherProjects/blob/main/C%2B%2B/Binary_To_Decimal_Conv.cpp)
