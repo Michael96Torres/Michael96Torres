@@ -18,11 +18,11 @@
 - ## [🐍 Python Projects 💻](https://github.com/Michael96Torres/Python)
   - [Amazon Web Scraper](https://github.com/Michael96Torres/Python/tree/main/AmazonWebScraper)
 
-- ## 🎨 Data Visualization (Tableau/Excel Dashboards) 📈
+- ## [🎨 Data Visualization (Tableau/Excel Dashboards) 📈](https://github.com/Michael96Torres/Data-Visualizations)
   - [Sales Dynamic Dashboard](https://github.com/Michael96Torres/Data-Visualizations/blob/main/Dynamic_Sales_Dashboard.xlsx)
   - [Interactive Adidas Sales Dashboard](https://github.com/Michael96Torres/Data-Visualizations/blob/main/Interactive_Dashboard_Adidas_Sales.xlsx)
 
-- ##  💾 Database Management (SQL/MySQL) 🗄️
+- ##  [💾 Database Management (SQL/MySQL) 🗄️](https://github.com/Michael96Torres/Database-Projects)
 
   - [Movie Database](https://github.com/Michael96Torres/Database-Projects/tree/main/Movie%20Database)
   - [Covid Database Exploration](https://github.com/Michael96Torres/Database-Projects/tree/main/Covid%20Database%20Project)
