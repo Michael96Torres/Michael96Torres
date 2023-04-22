@@ -16,6 +16,7 @@
 
 
 - ##  🐍 Python Projects 💻
+  - [Amazon Web Scraper](https://github.com/Michael96Torres/Python/tree/main/AmazonWebScraper)
 
 - ## 🎨 Data Visualization (Tableau/Excel Dashboards) 📈
   - [Sales Dynamic Dashboard](https://github.com/Michael96Torres/Data-Visualizations/blob/main/Dynamic_Sales_Dashboard.xlsx)
