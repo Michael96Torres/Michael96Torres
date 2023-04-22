@@ -28,7 +28,7 @@
   - [Covid Database Exploration](https://github.com/Michael96Torres/Database-Projects/tree/main/Covid%20Database%20Project)
 
 
-- ##  🤖 Machine Learning 👾
+- ##  [🤖 Machine Learning 👾](https://github.com/Michael96Torres/Machine-Learning)
 
   - [Linear Regression and Ordinary Least Squares](https://github.com/Michael96Torres/Machine-Learning/tree/main/Linear%20Regression%20and%20Ordinary%20Least%20Squares)
   - [Gaussian and Logistic Regression](https://github.com/Michael96Torres/Machine-Learning/tree/main/Gaussian%20and%20Logistic%20Regression)
@@ -36,7 +36,7 @@
   - [K Neighbors Classifier](https://github.com/Michael96Torres/Machine-Learning/tree/main/K%20Neighbors%20Classifier)
 
 
-- ## 🖥️ Other Programming Examples (R/C++) ⌨️
+- ## [🖥️ Other Programming Examples (R/C++) ⌨️](https://github.com/Michael96Torres/OtherProjects)
   - R (Statistical Analysis)
     - [Exam Scores Linear Regression](https://github.com/Michael96Torres/R/tree/main/Exam%20Scores%20Regression)
     - [Oxygen Demand vs Solid Reduction](https://github.com/Michael96Torres/R/tree/main/OxygenDemand_vs_SolidReduction)
@@ -56,7 +56,7 @@
   - Java
     -  [Espresso Virtual Machine](https://github.com/Michael96Torres/OtherProjects/tree/main/Java)
 
-- ## 🌱 Bioinformatics/Biometrics Undergraduate Research 🧬
+- ## [🌱 Bioinformatics/Biometrics Undergraduate Research 🧬](https://github.com/Michael96Torres/Bioinformatics-Biometry)
 
   - [BLAST_Database_Queries](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BLAST_Database_Queries.sh)
   - [Viral Sequence Identification](https://github.com/Michael96Torres/Bioinformatics-Biometry/blob/main/BLAST_Viral_Sequence_Identification.sh)
@@ -68,7 +68,7 @@
 
 
 
-- ## 🥼 Microscale Organic Chemistry Undergraduate Research 🧪
+- ## [🥼 Microscale Organic Chemistry Undergraduate Research 🧪](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research)
 
   - [Acetyl Ferrocene Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Acetyl%20Ferrocene%20Lab%20Report.docx)
   - [Grignard Reaction Lab](https://github.com/Michael96Torres/Chemistry-Undergraduate-Research/blob/main/Grignard%20Reaction.docx)
