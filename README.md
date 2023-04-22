@@ -15,7 +15,7 @@
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 
 
-- ##  🐍 Python Projects 💻
+- ## [🐍 Python Projects 💻](https://github.com/Michael96Torres/Python)
   - [Amazon Web Scraper](https://github.com/Michael96Torres/Python/tree/main/AmazonWebScraper)
 
 - ## 🎨 Data Visualization (Tableau/Excel Dashboards) 📈
