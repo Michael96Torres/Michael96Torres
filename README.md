@@ -2,9 +2,9 @@
 
 
 
-📫 How to reach me: MichaelTorresWorkEmail@gmail.com
+## 📫 How to reach me: MichaelTorresWorkEmail@gmail.com
 
-🖥️ Check out my portfolio website at https://michael96torres.github.io/
+## 🖥️ Check out my portfolio website at https://michael96torres.github.io/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael96Torres&layout=compact)](https://github.com/Michael96Torres/github-readme-stats)
