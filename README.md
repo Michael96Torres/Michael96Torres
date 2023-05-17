@@ -18,6 +18,7 @@
 
 - ## [🐍 Python Projects 💻](https://github.com/Michael96Torres/Python)
   - [Amazon Web Scraper](https://github.com/Michael96Torres/Python/tree/main/AmazonWebScraper)
+  - [Amazon Reviews_Sentiment_Analysis](https://github.com/Michael96Torres/Python/blob/main/Amazon_Reviews_Sentiment_Analysis/Amazon_Reviews_Sentiment_Analysis.ipynb)
 
 - ## [🎨 Data Visualization (Tableau/Excel Dashboards) 📈](https://github.com/Michael96Torres/Data-Visualizations)
   - [Sales Dynamic Dashboard](https://github.com/Michael96Torres/Data-Visualizations/blob/main/Dynamic_Sales_Dashboard.xlsx)
