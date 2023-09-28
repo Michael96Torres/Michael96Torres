@@ -1,5 +1,7 @@
 ### Hi there, I'm Michael! 👋
-##### Recently graduated with a degree in Computer Science and double minors in Mathematics and Biology from the University of Nevada, Las Vegas.  Currently pursuing an online Masters in Analytics from the Georgia Institute of Technology.  Also in the process of completing an Accounting degree from Western Governors University to obtain my CPA license.
+##### Recently graduated with a degree in Computer Science and double minors in Mathematics and Biology from the University of Nevada, Las Vegas.  
+Currently pursuing an online Masters in Analytics from the Georgia Institute of Technology.  
+Also in the process of completing an Accounting degree from Western Governors University to obtain my CPA license.
 
 #### 🖥️ Check out my portfolio website at https://michael96torres.github.io/
 
